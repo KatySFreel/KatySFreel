@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Занимаюсь версткой и разработкой<br>📖 Изучаю JavaScript, TypeScript, Vue и анимацию ✨<br>🤞 Учу английский язык<br>💙 Работаю в Skillbox
+💻 Занимаюсь версткой и разработкой<br>📖 Изучаю JavaScript, TypeScript, Vue и анимацию ✨<br>🤞 Учу английский язык
 
 
 ## 🌐 Socials:
