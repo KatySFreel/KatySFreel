@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 Занимаюсь версткой и разработкой<br>📖 Изучаю JavaScript, TypeScript, Vue и анимацию ✨<br>🤞 Учу английский язык
 
-[![Рекомендательное письмо] (https://github.com/KatySFreel/skillbox/blob/main/Рекомендательное%20письмо%20Сафонова%20Е.П.pdf) 
+[![Рекомендательное письмо]](https://github.com/KatySFreel/skillbox/blob/main/Рекомендательное%20письмо%20Сафонова%20Е.П.pdf) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/safonovadsgn) 
